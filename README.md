@@ -30,7 +30,7 @@ Proyecto personal https://beemoving.netlify.app/.
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/luthiwd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/luthiwd/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
 ![](https://raw.githubusercontent.com/luthiwd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 📈 Other Stats
