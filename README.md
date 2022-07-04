@@ -23,7 +23,7 @@ Proyecto personal https://beemoving.netlify.app/.
   Repositorio: <a href="https://github.com/Csriso/word-gym">Enlace</a><br>
   Demo Online: <a href="https://vinegar-trainer.herokuapp.com/">DEMO</a><br><br>
 
-- IronMiner - Primer proyecto en Ironhack - Minijuego Arcade 🙀<br>
+- Cats - Primer proyecto en Ironhack - Minijuego Arcade 🙀<br>
   Vanilla Javascript && HTML5 && CSS3<br>
   Repositorio: <a href="https://github.com/luthiwd/Cats">Enlace</a><br>
   Demo Online: <a href="https://luthiwd.github.io/cats/">DEMO</a><br><br>
